@@ -1,0 +1,9 @@
+C:\Users\madoa\AppData\Local\Temporary Projects\get_perfect_into_range\bin\Debug\get_perfect_into_range.exe
+C:\Users\madoa\AppData\Local\Temporary Projects\get_perfect_into_range\bin\Debug\get_perfect_into_range.pdb
+C:\Users\madoa\AppData\Local\Temporary Projects\get_perfect_into_range\obj\x86\Debug\get_perfect_into_range.exe
+C:\Users\madoa\AppData\Local\Temporary Projects\get_perfect_into_range\obj\x86\Debug\get_perfect_into_range.pdb
+C:\Users\madoa\OneDrive\Desktop\get_perfect_into_range\get_perfect_into_range\obj\x86\Debug\get_perfect_into_range.exe
+C:\Users\madoa\OneDrive\Desktop\get_perfect_into_range\get_perfect_into_range\obj\x86\Debug\get_perfect_into_range.pdb
+C:\Users\madoa\OneDrive\Desktop\get_perfect_into_range\get_perfect_into_range\bin\Debug\get_perfect_into_range.exe
+C:\Users\madoa\OneDrive\Desktop\get_perfect_into_range\get_perfect_into_range\bin\Debug\get_perfect_into_range.pdb
+C:\Users\madoa\OneDrive\Desktop\get_perfect_into_range\get_perfect_into_range\obj\x86\Debug\get_perfect_into_range.csprojResolveAssemblyReference.cache
