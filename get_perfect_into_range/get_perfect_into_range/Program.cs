@@ -11,7 +11,7 @@ class Program {
         Console.Write("Enter end point : ");
         
         int n2 = int.Parse(Console.ReadLine());
-        for (int i = 1; i <= n2; i++) {
+        for (int i = n1; i <= n2; i++) {
             int sum = 0;
             for (int j = 1; j < i; j++) {
                 if (i%j == 0) {
